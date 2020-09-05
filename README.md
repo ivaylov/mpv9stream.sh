@@ -7,9 +7,8 @@ Fullscreen 9 TV channel watching with Linux shell script. It's very useful watch
 3. Add this two-line to "~/.config/mpv/input.conf" for volume control with mouse scroll.  
   MOUSE_BTN3 add volume 2  
   MOUSE_BTN4 add volume -2  
-4. sudo chmod +x mpv9tv.sh
-
-
-
-
-  
+4. Make executable the shell script file.  
+  sudo chmod +x mpv9tv.sh  
+    
+      
+      
