@@ -1,5 +1,5 @@
-# mpv9tv.sh
-Fullscreen watching 9 TV channels with Linux shell script. It's very useful watching 9 TVs at the same time with opened muted and volume control with mouse scroll (double click fullscreen).
+# mpv9stream.sh
+Fullscreen watching 9 streams with Linux shell script. It's very useful watching 9 streams at the same time with opened muted and volume control with mouse scroll (double click fullscreen).
 
 ### Requirements
 1. sudo yum install mpv youtube-dl
