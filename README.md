@@ -8,7 +8,7 @@ Fullscreen watching 9 streams with Linux shell script. It's very useful watching
   MOUSE_BTN3 add volume 2  
   MOUSE_BTN4 add volume -2  
 4. Make executable the shell script file.  
-  sudo chmod +x mpv9tv.sh  
+  sudo chmod +x mpv9stream.sh  
     
       
       
